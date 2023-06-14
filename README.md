@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedromelloguimaraes
 - 👀 I’m interested in programming, studying and knowledge
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Node.js and Python
 - 💞️ I’m looking to collaborate on AI's world
 - 🐯 I'm developing TIGER, a voice command based AI
 
